@@ -16,7 +16,7 @@ body { background-color: #000000;
     padding-right: 10%;
     max-width: 100rem;
     padding-bottom: 10%;
-    margin-left: -9rem !important;
+    margin-left: 5rem !important;
 }
 
 title { 
@@ -45,6 +45,7 @@ h2 {
 p {
     font-size: 1.4rem;
     line-height: 2rem;
+    margin-left: -7rem;
 }
 
 .demo_font_arial{
