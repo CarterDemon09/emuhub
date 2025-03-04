@@ -2,7 +2,7 @@
 
 <!-- Navigation -->
 
-<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" id="mainNav">
+<nav class="navbar navbar-expand-md navbar-light bg-light fixed-top" id="mainNav">
 
     <a class="navbar-brand" href="index.html">Emulator Link Page</a>
 
@@ -26,7 +26,7 @@
 
           <li class="nav-item">
 
-            <a class="nav-link" href="null">Setup<span class="sr-only">(current)</span></a>
+            <a class="nav-link" href="index.html">index<span class="sr-only">(current)</span></a>
 
           </li>
 
