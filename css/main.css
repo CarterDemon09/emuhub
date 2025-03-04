@@ -16,7 +16,7 @@ body { background-color: #000000;
     padding-right: 10%;
     max-width: 100rem;
     padding-bottom: 10%;
-    margin-left: 5rem !important;
+  
 }
 
 title { 
@@ -34,7 +34,7 @@ h1 {
     margin-bottom: 1.5rem;
     font-size: 3.2rem;
     line-height: 1;
-    margin-left: 5rem;
+  
 }
 
 h2 {
@@ -59,3 +59,5 @@ img {
     padding-bottom: 50px;
 }
 
+.Main { margin-left: 10px
+       
