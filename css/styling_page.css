@@ -6,3 +6,10 @@
 .header_text_shadow{
     text-shadow: 0 0 0.5rem red;
 }
+
+
+    body { 
+
+        background-color: #000000; 
+
+    } 
