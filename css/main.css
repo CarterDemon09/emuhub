@@ -1,4 +1,8 @@
 
+html {
+  font-size: 75%; /* font-size 1em = 10px on default browser settings */
+}
+
 body {
     padding-top: 150px;
     font-family: et-book, Palatino, "Palatino Linotype", "Palatino LT STD", "Book Antiqua", Georgia, serif;
@@ -31,23 +35,13 @@ p {
     line-height: 2rem;
 }
 
+.demo_font_arial{
+    font-family: arial, sans-serif;
+}
+
 img {
     max-width: 100%;
     height: auto;
     padding-top: 50px;
     padding-bottom: 50px;
-}
-
-
-.schedule_week{
-    padding-bottom: 50px;
-    padding-left: 20px;
-}
-
-h3{
-    margin-left: -20px;
-}
-
-h4{
-    font-size: 1.4rem;
 }
