@@ -1,0 +1,35 @@
+
+<!-- Navigation -->
+<nav class="navbar navbar-expand-md navbar-dark bg-dark fixed-top" id="mainNav">
+    <a class="navbar-brand" href="index.html">Emulator Link Page</a>
+
+    <!-- To make our navbar mobile-friendly, we make it collapsable -->
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+            aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav mr-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="Null">Setup<span class="sr-only">(current)</span></a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="null">TDB</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="null">TDB</a>
+          </li>
+
+          <li class="nav-item">
+            <a class="nav-link" href="null">TDB</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="null">TDB</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="null">TDB</a>
+          </li>
+        </ul>
+    </div>
+</nav>
