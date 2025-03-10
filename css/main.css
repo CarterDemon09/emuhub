@@ -63,5 +63,14 @@ img {
     padding-bottom: 50px;
 }
 
-.Main { margin-left: 10px
+.Main { margin-left: 10px }
+
+.center {  margin: auto;
+           width: auto; 
+           padding: 10px;
+           text-align: center;
+           font-size: 1.8rem;
+           color:FFFFFF;
+         
+        }
        
