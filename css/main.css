@@ -43,6 +43,7 @@ h1 {
 
 h2 {
  color:#ffffff; 
+  text-align: center;
     padding-top: 30px;
 }
 
@@ -75,5 +76,9 @@ img {
          
         }
 
-.nav-item { color:ffffff
+.nav-item { color:000000
           }
+h4 { text-align: center; 
+   }
+h5 { text-align:center;
+   }
